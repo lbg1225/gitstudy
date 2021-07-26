@@ -1,0 +1,4 @@
+▶ 2. git rm
+1) --cached : Index에 추가된 파일을 staging area에서 제외(working directory의 파일은 유지)
+2) -f, --force : 삭제하려는 파일의 내용이 브랜치 끝 부분에서의 내용과 다를 경우 강제 삭제
+3) --ignore-unmatch : 삭제하려는 파일이 없을 때 발생하는 에러 무시
